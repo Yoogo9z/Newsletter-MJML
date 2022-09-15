@@ -1,0 +1,78 @@
+<mjml owa="desktop">
+  <mj-body background-color="#CFD1E2">
+    <mj-section padding-bottom="0px">
+      <mj-column vertical-align="middle">
+        <mj-image width="144px" align="center" src="https://www.arturia.com/images/newsletters/2016-02-black/Logo-Baseline-0.15x.png" href="https://www.arturia.com" alt="logo arturia"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="10px" padding-bottom="0px">
+      <mj-column>
+        <mj-text font-family="Outfit" text-decoration="underline" font-size="12px" align="center">News September 2022</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#9AB8CA" border-radius="10px">
+      <mj-column>
+        <mj-text padding-top="0px" padding-bottom="0px" color="#FFFFFE" font-family="Outfit" font-size="14px" line-height="120%">Dear subscribers,<br /><br /> Are you used to dealing with basic VSTs in your computer music software?<br />Discover I-spark the mobile pad that offers you a lot of new synths.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column background-color="#FFFFFE" border-radius="10px">
+        <mj-image padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" border-radius="10px 10px 0px 0px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/05.jpg" href="https://www.arturia.com/products/ipad-synths/ispark/overview" alt=""></mj-image>
+        <mj-text padding-top="25px" padding-bottom="25px" font-family="Outfit" font-size="14px" line-height="120%">iSpark is a powerful mobile production tool allowing you to create and play rhythmic tracks, complex grooves and even complete songs. Its sonic strike force comes along with an unwavering workflow and a real flexibility.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="10px" background-color="#FFFFFE">
+        <mj-image border-radius="10px 10px 0px 0px" padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" border-radius="10px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/06.jpg" href="https://www.arturia.com/products/ipad-synths/ispark/overview" alt=""></mj-image>
+        <mj-text padding-top="25px" padding-bottom="25px" font-family="Outfit" font-size="14px" line-height="120%">Check out the iSpark introduction movie shot during the Arturia Experience event at the ADE featuring the Dutch beatmaker FilosofischeStilte.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="10px" background-color="#FFFFFE">
+        <mj-image border-radius="10px 10px 0px 0px" border-radius="10px" padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/07.jpg" href="https://www.arturia.com/products/ipad-synths/ispark/details" alt=""></mj-image>
+        <mj-text padding-top="25px" padding-bottom="25px" font-family="Outfit" font-size="14px" line-height="120%">Follow Mauricio Garcia, Arturia Product Specialist, presenting you the many clever features of iSpark in this series of tutorials.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="10px" background-color="#FFFFFE">
+        <mj-image border-radius="10px 10px 0px 0px" padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" border-radius="10px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/08.jpg" href="https://www.arturia.com/products/ipad-synths/ispark/details" alt=""></mj-image>
+        <mj-text padding-top="25px" font-family="Outfit" font-size="14px" line-height="120%">iSpark includes a tremendous collection of factory kits and individual instruments covering most of the field of application of beat-making but it is also compatible with the existing Spark resources and Expansion Packs.</mj-text>
+        <mj-button background-color="#2DDCB4" padding-bottom="25px" border-radius="8px" href="https://www.arturia.com/products/ipad-synths/ispark/overview" font-size="14px" font-family="Outfit" line-height="120%">Learn more about iSpark</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#9AB8CA" border-radius="10px">
+      <mj-column>
+        <mj-text padding-top="0px" padding-bottom="0px" color="#FFFFFE" font-family="Outfit" font-size="14px" line-height="120%" align="center">Musically yours,<br /><br /> The ARTURIA squad</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-left="0px" padding-right="0px" padding-top="10px" padding-bottom="0px">
+      <mj-column>
+        <mj-image width="50px" src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-3-1.png" href="https://www.facebook.com/Arturia.Instruments" alt="Logo facebook"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image width="50px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png" href="http://www.youtube.com/arturiaweb" alt=""></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image width="50px" src="https://cdn-icons-png.flaticon.com/512/145/145809.png" href="http://soundcloud.com/arturia-official" alt=""></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image width="50px" src="https://i.postimg.cc/4d0snL4p/twitter.png" href="http://twitter.com/arturiaofficial" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column>
+        <mj-text font-family="Outfit" padding-top="10px" align="center">See this email in your browser <a href="https://www.arturia.com/images/newsletters/2016-02-ispark/newsletter.html" style="text-decoration:underline;color:#ffffff">here</a></mj-text>
+        <mj-divider border-width="1px" padding-left="0px" padding-right="0px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text padding-bottom="0px" padding-top="0px" font-family="Outfit" font-size="10px" line-height="12px">Your email address is on this list as a result of a subscription, information request, competition, or other correspondence you may have had with us in the past. If you would like to be removed from our list, check the email address this newsletter
+          was sent to and use the following link: <a href="https://www.arturia.com/index.php?option=com_myarturia&view=newsletter&task=unsubscribeFromEmail&email={email}&token={title}&utm_source=elasticemail&utm_medium=email&utm_campaign=arturia_unsubscribe_2016&utm_term=nl-ispark-launch&utm_content=unsubscribe_footer" style="text-decoration:none;color:#ffffff;text-decoration:underline">Unsubscribe</a>. Privacy policy available <a href="https://www.arturia.com/privacypolicy" style="color:#ffffff;">here</a>.</mj-text>
+        <mj-text padding-bottom="0px" font-family="Outfit" font-size="10px" line-height="12px">ARTURIA: <a href="https://www.arturia.com" style="text-decoration:none;color:#ffffff;text-decoration:underline">https://www.arturia.com</a> - Contact: <a href="mailto:info@arturia.com" style="text-decoration:none;color:#ffffff;text-decoration:underline">info</a><br /> ARTURIA France: 30 chemin
+          du vieux chêne, 38240 Meylan - FRANCE<br /> ARTURIA US: : 5776-D Lindero Cyn Rd #239 -Westlake Village, CA 91362 - USA</mj-text>
+        <mj-divider border-width="1px" padding-left="0px" padding-right="0px"></mj-divider>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
