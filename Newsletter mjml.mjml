@@ -18,7 +18,7 @@
     <mj-section>
       <mj-column background-color="#FFFFFE" border-radius="10px">
         <mj-image padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" border-radius="10px 10px 0px 0px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/05.jpg" href="https://www.arturia.com/products/ipad-synths/ispark/overview" alt=""></mj-image>
-        <mj-text padding-top="25px" padding-bottom="25px" font-family="Outfit" font-size="14px" line-height="120%">iSpark is a powerful mobile production tool allowing you to create and play rhythmic tracks, complex grooves and even complete songs. Its sonic strike force comes along with an unwavering workflow and a real flexibility.</mj-text>
+        <mj-text padding-top="25px" padding-bottom="25px" font-family="Outfit" font-size="14px" line-height="120%">iSparke is a powerful mobile production tool allowing you to create and play rhythmic tracks, complex grooves and even complete songs. Its sonic strike force comes along with an unwavering workflow and a real flexibility.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
